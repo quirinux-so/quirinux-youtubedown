@@ -36,9 +36,9 @@ sudo chmod a+rx /usr/local/bin/yt-dlp
 ▶️ Ejecutar la aplicación:
 
 ```bash
-git clone https://github.com/yourusername/youtube-downloader-gui.git
-cd youtube-downloader-gui
-python3 youtubedownload.py
+git clone https://github.com/quirinux-so/quirinux-youtubedown
+cd quirinux-youtubedown/quirinux-youtubedown_1.0.3_all/opt/youtubedown
+python3 youtubedown.py
 ```
 
 📦 Instalación alternativa (solo en Quirinux):
@@ -96,9 +96,9 @@ sudo chmod a+rx /usr/local/bin/yt-dlp
 ▶️ Run the application:
 
 ```bash
-git clone https://github.com/yourusername/youtube-downloader-gui.git
-cd youtube-downloader-gui
-python3 youtubedownload.py
+git clone https://github.com/quirinux-so/quirinux-youtubedown
+cd quirinux-youtubedown/quirinux-youtubedown_1.0.3_all/opt/youtubedown
+python3 youtubedown.py
 ```
 
 📦 Alternative install (only on Quirinux):
