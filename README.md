@@ -1,7 +1,8 @@
-# YouTube Downloader GUI
+# YouTubeDown!
+YouTube Downloader GUI
 (c) Charlie Martínez - Quirinux Project, GPLv2
 
-**YouTube Downloader GUI** is a simple, multilingual graphical application for downloading YouTube videos in either **MP4 (video)** or **MP3 (audio)** format.  
+A simple, multilingual graphical application for downloading YouTube videos in either **MP4 (video)** or **MP3 (audio)** format.  
 
 It is built in Python 3 using Tkinter for the graphical interface, and uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) as the backend downloader.
 
