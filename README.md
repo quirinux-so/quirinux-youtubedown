@@ -69,7 +69,7 @@ apt install quirinux-youtubedownloader
 Also available from the Quirinux Software Center.
 
 Package URL:
-https://repo.quirinux.org/pool/main/q/quirinux-youtubedownloader
+https://repo.quirinux.org/pool/main/q/quirinux-youtubedown
 
 ## License
 
