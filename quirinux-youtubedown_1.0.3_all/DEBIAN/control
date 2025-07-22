@@ -1,0 +1,11 @@
+Package: quirinux-youtubedown
+Version: 1.0.3
+Architecture: all
+Maintainer: Charlie Martinez <cmartinez@quirinux.org>
+Installed-Size: 119
+Depends: python3, python3-tk, ffmpeg, yt-dlp
+Section: contrib/misc
+Priority: optional
+Description: Descargar videos de Youtube
+ Descargar videos de youtube en mp3 y mp4.
+ Autor: Charlie Martínez
