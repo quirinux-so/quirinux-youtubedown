@@ -6,7 +6,6 @@
 
 ![youtubedown](https://github.com/user-attachments/assets/1c439f84-0f21-4928-9858-a51e80bfd535)
 
-
 ## 🇪🇸 Español  
 Una sencilla aplicación gráfica y multilingüe para descargar videos de YouTube en formato **MP4 (video)** o **MP3 (audio)**.  
 
@@ -55,9 +54,11 @@ python3 youtubedownload.py
 su root
 apt install quirinux-youtubedownloader
 ```
+Releases:
+🔗 https://repo.quirinux.org/pool/main/q/quirinux-youtubedown
 
 También disponible desde el **Centro de Software de Quirinux**.  
-🔗 https://repo.quirinux.org/pool/main/q/quirinux-youtubedown
+
 
 ### ⚠️ Aviso legal  
 Este proyecto forma parte del ecosistema **Quirinux**, pero es compatible con cualquier distribución moderna de GNU/Linux.  
@@ -117,9 +118,10 @@ python3 youtubedownload.py
 su root
 apt install quirinux-youtubedownloader
 ```
+Releases:
+🔗 https://repo.quirinux.org/pool/main/q/quirinux-youtubedown
 
 Also available from the **Quirinux Software Center**.  
-🔗 https://repo.quirinux.org/pool/main/q/quirinux-youtubedown
 
 ### ⚠️ Legal notice  
 This project is part of the **Quirinux** ecosystem but is compatible with any modern GNU/Linux distribution.  
