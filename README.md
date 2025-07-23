@@ -2,6 +2,9 @@
 
 (c) Charlie Martínez – Quirinux GNU/Linux, GPLv2  
 
+![youtubedown](https://github.com/user-attachments/assets/1c439f84-0f21-4928-9858-a51e80bfd535)
+
+
 ## 🇪🇸 Español  
 Una sencilla aplicación gráfica y multilingüe para descargar videos de YouTube en formato **MP4 (video)** o **MP3 (audio)**.  
 Desarrollada en **Python 3** con **Tkinter**, y utilizando **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** como motor de descarga.
