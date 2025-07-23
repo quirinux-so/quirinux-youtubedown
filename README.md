@@ -7,7 +7,8 @@
 
 ## 🇪🇸 Español  
 Una sencilla aplicación gráfica y multilingüe para descargar videos de YouTube en formato **MP4 (video)** o **MP3 (audio)**.  
-Desarrollada en **Python 3** con **Tkinter**, y utilizando **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** como motor de descarga.
+
+Desarrollada en **Python 3** con **Tkinter**, utiliza **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** como motor de descarga.
 
 ✅ Características:
 
@@ -59,7 +60,9 @@ También disponible desde el **Centro de Software de Quirinux**.
 ### ⚠️ Aviso legal  
 Este proyecto forma parte del ecosistema **Quirinux**, pero es compatible con cualquier distribución moderna de GNU/Linux.  
 Publicado bajo licencia **GPLv2**.  
-(c) Charlie Martínez – Quirinux GNU/Linux  
+
+Autor: Charlie Martinez <cmartinez@quirinux.org>
+
 ℹ️ Más información:  
 🔗 [https://www.quirinux.org/aviso-legal](https://www.quirinux.org/aviso-legal)
 
@@ -119,6 +122,8 @@ Also available from the **Quirinux Software Center**.
 ### ⚠️ Legal notice  
 This project is part of the **Quirinux** ecosystem but is compatible with any modern GNU/Linux distribution.  
 Released under the **GPLv2 license**.  
-(c) Charlie Martínez – Quirinux GNU/Linux  
+
+Author: Charlie Martinez <cmartinez@quirinux.org>
+
 ℹ️ More info:  
 🔗 [https://www.quirinux.org/aviso-legal](https://www.quirinux.org/aviso-legal)
