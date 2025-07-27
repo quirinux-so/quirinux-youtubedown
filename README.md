@@ -1,6 +1,4 @@
-<img width="32" height="32" alt="youtubedown" src="https://github.com/user-attachments/assets/fdce1e97-ca3c-49c1-8733-c77f02493cf2" /> 
-
-# YouTubeDown!
+# <img width="32" alt="youtubedown" src="https://github.com/user-attachments/assets/fdce1e97-ca3c-49c1-8733-c77f02493cf2" /> YouTubeDown!
 
 (c) Charlie Martínez – Quirinux GNU/Linux, GPLv2  
 
